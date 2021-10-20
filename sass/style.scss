@@ -162,7 +162,7 @@ h1 {
 }
 
 .card-text{
-    padding: 0 0;
+    padding-bottom: 20px;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -181,7 +181,6 @@ h1 {
     transition: all .5s ease;
   }
 
-  
   .footer a:hover {
     color: $color-one;
   }
